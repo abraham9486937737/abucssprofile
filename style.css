@@ -1,0 +1,27 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    color:crimson
+}
+h2{
+    color:darkviolet
+}
+h3{
+    color:rgb(252, 216, 126)
+}
+h4{
+    color:rgb(205, 227, 248)
+}
+h5{
+    color:rgb(239, 202, 245)
+}
+h6{
+    color:rgb(44, 148, 228)
+}
+p{
+    color:rgb(152, 7, 43)
+}
+li{
+    color:rgb(55, 52, 117)
+}
